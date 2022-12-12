@@ -1,23 +1,3 @@
-![HenryLogo](https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png)
-
-<table class="hide" width="100%" style='table-layout:fixed;'>
-  <tr>
-    <td>
-      <a href="https://airtable.com/shrSzEYT4idEFGB8d?prefill_clase=01-Git">
-        <img src="https://static.thenounproject.com/png/204643-200.png" width="100"/>
-        <br>
-        Hacé click acá para dejar tu feedback sobre esta clase.
-      </a>
-    </td>
-  </tr>
-</table>
-
-# Uso de Git
-
-<div class="iframeContainer">
-<iframe src="https://player.vimeo.com/video/423898676?h=adff0ae804&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="1920" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="00 - Intro: GitHub + editor de texto + terminal"></iframe>
-</div>
-
 ## Version Control System
 
 ¿Qué es un control de versiones, y por qué debería importarte? Un control de versiones es un sistema que registra los cambios realizados en un archivo o conjunto de archivos a lo largo del tiempo, de modo que puedas recuperar versiones específicas más adelante.
@@ -28,14 +8,14 @@ Hay varios tipos de sistemas de versionado, estos pueden ser:
 
 ### Locales
 
-![Local](/_src/assets/01-Git/local.png)
+
 
 Un método de control de versiones, usado por muchas personas, es copiar los archivos a otro directorio (quizás indicando la fecha y hora en que lo hicieron, si son ingeniosos). Este método es muy común porque es muy sencillo, pero también es tremendamente propenso a errores. Es fácil olvidar en qué directorio te encuentras y guardar accidentalmente en el archivo equivocado o sobrescribir archivos que no querías.
 Como se pueden imaginar, este sistema funciona _bien_ para trabajar solos, pero si queremos incorporar otra gente al equipo van a empezar a surgir problemas.
 
 ### Centralizados
 
-![Centralizado](/_src/assets/01-Git/centralizado.png)
+
 
 Para solventar este problema, se desarrollaron los sistemas de control de versiones centralizados (_Centralized Version Control Systems_ o **CVCSs** en inglés). Estos sistemas, como **CVS**, **Subversion**, y **Perforce**, tienen un único servidor que contiene todos los archivos versionados, y varios clientes descargan los archivos desde ese lugar central. Durante muchos años éste ha sido el estándar para el control de versiones.
 
@@ -43,7 +23,7 @@ Este sistema ofrece varias ventajas, como por ejemplo: Todo el mundo puede saber
 
 ### Distribuido
 
-![Distribuido](/_src/assets/01-Git/distribuido.png)
+
 
 Es aquí donde entran los sistemas de control de versiones distribuidos (_Distributed Version Control Systems_ o **DVCSs** en inglés). En un DVCS (como **Git**, **Mercurial**, **Bazaar** o **Darcs**), los clientes no sólo descargan la última instantánea de los archivos: replican completamente el repositorio. Así, si un servidor muere, y estos sistemas estaban colaborando a través de él, cualquiera de los repositorios de los clientes puede copiarse en el servidor para restaurarlo.
 
@@ -65,7 +45,7 @@ Desde su nacimiento en 2005, Git ha evolucionado y madurado para ser fácil de u
 
 Git modela sus datos como un conjunto de instantáneas de un mini sistema de archivos. Cada vez que confirmas un cambio, o guardas el estado de tu proyecto en Git, él básicamente hace una foto del aspecto de todos tus archivos en ese momento, y guarda una referencia a esa instantánea. Para ser eficiente, si los archivos no se han modificado, Git no almacena el archivo de nuevo, sólo un enlace al archivo anterior idéntico que ya tiene almacenado.
 
-![snapshots](/_src/assets/01-Git/snapshots.png)
+
 
 La mayoría de las operaciones en Git sólo necesitan archivos y recursos locales para operar. Por lo general no se necesita información de ningún otro ordenador de tu red. Como tienes toda la historia del proyecto ahí mismo, en tu disco local, la mayoría de las operaciones parecen prácticamente inmediatas (con otros sistemas el proceso involucra llamados por red que generan retardos importantes).
 
@@ -91,7 +71,7 @@ Git tiene tres estados principales en los que se pueden encontrar tus archivos:
 - **modified**: significa que has modificado el archivo pero todavía no lo has commiteado a tu base de datos.
 - **staged**: significa que has marcado un archivo modificado en su versión actual para que vaya en tu próxima commiteada.
 
-![Estados](/_src/assets/01-Git/estados.png)
+
 
 Hay un archivo simple, generalmente contenido en tu directorio de Git, llamado que almacena información acerca de lo que va a ir en tu próxima confirmación, al contenido de este archivo. O al archivo mismo se lo conoce como **staging area**.
 
