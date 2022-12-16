@@ -1,17 +1,3 @@
-![HenryLogo](https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png)
-
-<table class="hide" width="100%" style='table-layout:fixed;'>
-  <tr>
-    <td>
-      <a href="https://airtable.com/shrSzEYT4idEFGB8d?prefill_clase=05-JS-IV">
-        <img src="https://static.thenounproject.com/png/204643-200.png" width="100"/>
-        <br>
-        Hacé click acá para dejar tu feedback sobre esta clase.
-      </a>
-    </td>
-  </tr>
-</table>
-
 # JavaScript IV
 
 #### Objetos
@@ -296,18 +282,3 @@ En esta lección aprendimos qué son los Objetos y las muchas formas que existen
 
 Completa la tarea descrita en el archivo [README](https://github.com/soyHenry/Prep-Course/tree/main/05-JS-IV/homework)
 
-<table class="hide" width="100%" style='table-layout:fixed;'>
-  <tr>
-    <td>
-      <a href="https://airtable.com/shrSzEYT4idEFGB8d?prefill_clase=05-JS-IV">
-        <img src="https://static.thenounproject.com/png/204643-200.png" width="100"/>
-        <br>
-        Hacé click acá para dejar tu feedback sobre esta clase.
-      </a>
-    </td>
-  </tr>
-</table>
-
----
-
-#### Si tienes dudas sobre este tema, puedes consultarlas en el canal ***05_js-iv*** de Slack

@@ -1,17 +1,3 @@
-![HenryLogo](https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png)
-
-<table class="hide" width="100%" style='table-layout:fixed;'>
-  <tr>
-    <td>
-      <a href="https://airtable.com/shrSzEYT4idEFGB8d?prefill_clase=04-JS-III">
-        <img src="https://static.thenounproject.com/png/204643-200.png" width="100"/>
-        <br>
-        Hacé click acá para dejar tu feedback sobre esta clase.
-      </a>
-    </td>
-  </tr>
-</table>
-
 # JavaScript III
 
 #### Continuación de bucles ***for*** y ***arrays***
@@ -145,11 +131,3 @@ for (let i = 0; i < nombresEstudiantes.length; i++) {
 
 * [MDN: Arrays](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
 * [MDN: for Loops](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for)
-
-## Homework
-
-Completa la tarea descrita en el archivo [README](https://github.com/soyHenry/Prep-Course/tree/main/04-JS-III/homework)
-
----
-
-#### Si tienes dudas sobre este tema, puedes consultarlas en el canal ***04_js-iii*** de Slack
