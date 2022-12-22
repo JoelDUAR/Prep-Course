@@ -1,17 +1,3 @@
-![HenryLogo](https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png)
-
-<table class="hide" width="100%" style='table-layout:fixed;'>
-  <tr>
-    <td>
-      <a href="https://airtable.com/shrSzEYT4idEFGB8d?prefill_clase=07-JS-VI">
-        <img src="https://static.thenounproject.com/png/204643-200.png" width="100"/>
-        <br>
-        Hacé click acá para dejar tu feedback sobre esta clase.
-      </a>
-    </td>
-  </tr>
-</table>
-
 # JavaScript VI
 
 #### Callbacks
@@ -125,30 +111,3 @@ const triple = numeros.map(multiplicarPorTres);
 console.log(doble); // [ 4, 6, 8, 10 ]
 console.log(triple); // [ 6, 9, 12, 15 ]
 ```
-
-## Recursos adicionales
-
-- [Understanding Callback Functions and How to Use Them](http://javascriptissexy.com/understand-javascript-callback-functions-and-use-them/)
-- [Eloquent Javascript: Higher Order Functions](https://eloquentjavascript.net/05_higher_order.html)
-- [MDN: Callback function](https://developer.mozilla.org/en-US/docs/Glossary/Callback_function)
-- [MDN: Array methods](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
-
-## Homework
-
-Completa la tarea descrita en el archivo [README](https://github.com/soyHenry/Prep-Course/tree/main/07-JS-VI/homework)
-
-<table class="hide" width="100%" style='table-layout:fixed;'>
-  <tr>
-    <td>
-      <a href="https://airtable.com/shrSzEYT4idEFGB8d?prefill_clase=07-JS-VI">
-        <img src="https://static.thenounproject.com/png/204643-200.png" width="100"/>
-        <br>
-        Hacé click acá para dejar tu feedback sobre esta clase.
-      </a>
-    </td>
-  </tr>
-</table>
-
----
-
-#### Si tienes dudas sobre este tema, puedes consultarlas en el canal ***07_js-vi*** de Slack
