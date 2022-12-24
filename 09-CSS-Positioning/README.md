@@ -1,17 +1,3 @@
-![HenryLogo](https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png)
-
-<table class="hide" width="100%" style='table-layout:fixed;'>
-  <tr>
-    <td>
-      <a href="https://airtable.com/shrSzEYT4idEFGB8d?prefill_clase=09-CSS-Positioning">
-        <img src="https://static.thenounproject.com/png/204643-200.png" width="100"/>
-        <br>
-        Hacé click acá para dejar tu feedback sobre esta clase.
-      </a>
-    </td>
-  </tr>
-</table>
-
 # CSS Intermedio
 
 En esta lección cubriremos:
@@ -168,31 +154,3 @@ Esta propiedad puede cambiar cómo el navegador interpreta `justify-content` (JC
 
 Por último, cubriremos una propiedad más avanzada llamada "align-self". La misma será aplicada a un elemento dentro del "flex box" del cual queremos separar el control de `align-items`. Si le damos la propiedad `align-self`, podemos colocarla en cualquier lugar a lo largo del eje de elementos de alineación que queramos. (Nota: NO existe `justify-self`, esta es la razón principal por la que los desarrolladores cambiarán la dirección de "flex").
 
-## Recursos adicionales
-
-* [Flexbox Froggy](http://flexboxfroggy.com/) (un excelente tutorial sobre flexbox)
-* [Conceptos básicos de FlexBox](https://developer.mozilla.org/es/docs/Web/CSS/CSS_Flexible_Box_Layout/Conceptos_Basicos_de_Flexbox)
-* [CSS tricks: A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-* [MDN: Using CSS Flexible Boxes](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Using_CSS_flexible_boxes)
-* [MDN: CSS display propery](https://developer.mozilla.org/en-US/docs/Web/CSS/display)
-* [MDN: CSS position property](https://developer.mozilla.org/en-US/docs/Web/CSS/position)
-
-## Homework
-
-Abre una nueva ventana en el navegador y completa [homework.html](https://github.com/soyHenry/Prep-Course/tree/main/09-CSS-Positioning/homework)
-
-<table class="hide" width="100%" style='table-layout:fixed;'>
-  <tr>
-    <td>
-      <a href="https://airtable.com/shrSzEYT4idEFGB8d?prefill_clase=09-CSS-Positioning">
-        <img src="https://static.thenounproject.com/png/204643-200.png" width="100"/>
-        <br>
-        Hacé click acá para dejar tu feedback sobre esta clase.
-      </a>
-    </td>
-  </tr>
-</table>
-
----
-
-#### Si tienes dudas sobre este tema, puedes consultarlas en el canal ***html-y-css*** de Slack

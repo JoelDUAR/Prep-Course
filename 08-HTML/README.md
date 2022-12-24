@@ -1,17 +1,3 @@
-![HenryLogo](https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png)
-
-<table class="hide" width="100%" style='table-layout:fixed;'>
-  <tr>
-    <td>
-      <a href="https://airtable.com/shrSzEYT4idEFGB8d?prefill_clase=08-HTML">
-        <img src="https://static.thenounproject.com/png/204643-200.png" width="100"/>
-        <br>
-        Hacé click acá para dejar tu feedback sobre esta clase.
-      </a>
-    </td>
-  </tr>
-</table>
-
 # HTML/CSS
 
 #### Fundamentos
@@ -44,8 +30,6 @@ HTML define una serie de elementos (o etiquetas, o tags) que serviran para delim
   ...
 </element>
 ```
-
-![alt text](/_src/assets/08-HTML/html.jpg)
 
 Algunos tags html, por su naturaleza, no necesitan tener nada *adentro*. Por lo tanto podemos abreviar su escritura y en vez de abrir y cerrar el tag, simplemente agregamos un "/" antes del bracket final.
 
@@ -433,26 +417,3 @@ La bandera href le dirá al navegador dónde encontrar el archivo. Si el archivo
 
 Ahora que tenemos nuestra hoja de estilo externa vinculada a nuestro archivo HTML, deberíamos ver las reglas de estilo que establecemos reflejadas en nuestra página.
 
-## Recursos adicionales
-
-* [MDN official CSS documentation](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/How_CSS_works)
-* [MDN official HTML documentation](https://developer.mozilla.org/en-US/docs/Web/HTML)
-* [Codecademy: Learn HTML](https://www.codecademy.com/learn/learn-html)
-* [Codecademy: Learn CSS](https://www.codecademy.com/learn/learn-css)
-* [w3schools: The Box Model](https://www.w3schools.com/css/css_boxmodel.asp)
-
-<table class="hide" width="100%" style='table-layout:fixed;'>
-  <tr>
-    <td>
-      <a href="https://airtable.com/shrSzEYT4idEFGB8d?prefill_clase=08-HTML">
-        <img src="https://static.thenounproject.com/png/204643-200.png" width="100"/>
-        <br>
-        Hacé click acá para dejar tu feedback sobre esta clase.
-      </a>
-    </td>
-  </tr>
-</table>
-
----
-
-#### Si tienes dudas sobre este tema, puedes consultarlas en el canal ***html-y-css*** de Slack

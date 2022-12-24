@@ -1,0 +1,25 @@
+body{
+    background-image: url("https://img.lovepik.com/background/20211029/medium/lovepik-sunflower-cell-phone-wallpaper-background-image_400289496.jpg");
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+h1{
+    color: red;
+}
+img{
+    width: 400px;
+}
+#thirdDiv{
+    height: 600px;
+    width: 500px;
+    padding: 50px;
+    border: 1px solid blue;
+}
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+}
+div{
+    text-align: center;
+}
